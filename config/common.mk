@@ -122,6 +122,7 @@ PRODUCT_PACKAGES += \
     SlimLauncher \
     LatinIME \
     BluetoothExt \
+    Wallpapers \
     DashClock \
     DeskClock \
     LiveWallpapersPicker \
