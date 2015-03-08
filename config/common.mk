@@ -164,9 +164,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 PRODUCT_PACKAGE_OVERLAYS += vendor/liquid/overlay/common
 
-PRODUCT_COPY_FILES += \
-    vendor/liquid/prebuilt/common/bootanimation/bootanimation.zip:system/media/bootanimation.zip
-
 # version
 RELEASE = false
 LIQUID_VERSION_MAJOR = 4
