@@ -49,6 +49,37 @@ PRODUCT_COPY_FILES += \
 PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/etc/init.local.rc:root/init.slim.rc
 
+# Theme
+PRODUCT_COPY_FILES += \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Calculator.apk:system/vendor/overlay/DGMTRLv3_Calculator.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Cellbroadcast.apk:system/vendor/overlay/DGMTRLv3_Cellbroadcast.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Deskclock.apk:system/vendor/overlay/DGMTRLv3_Deskclock.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Documentsui.apk:system/vendor/overlay/DGMTRLv3_Documentsui.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Dropbox.apk:system/vendor/overlay/DGMTRLv3_Dropbox.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Framework.apk:system/vendor/overlay/DGMTRLv3_Framework.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Gmail.apk:system/vendor/overlay/DGMTRLv3_Gmail.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_GoogleMusic.apk:system/vendor/overlay/DGMTRLv3_GoogleMusic.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_GoogleSearch.apk:system/vendor/overlay/DGMTRLv3_GoogleSearch.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Gplus.apk:system/vendor/overlay/DGMTRLv3_Gplus.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRlv3_Hangouts.apk:system/vendor/overlay/DGMTRlv3_Hangouts.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Messenger.apk:system/vendor/overlay/DGMTRLv3_Messenger.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_MMS.apk:system/vendor/overlay/DGMTRLv3_MMS.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Settings.apk:system/vendor/overlay/DGMTRLv3_Settings.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_SMSBackupRestore.apk:system/vendor/overlay/DGMTRLv3_SMSBackupRestore.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_SuperSU.apk:system/vendor/overlay/DGMTRLv3_SuperSU.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_TheScore.apk:system/vendor/overlay/DGMTRLv3_TheScore.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Youtube.apk:system/vendor/overlay/DGMTRLv3_Youtube.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Midnight_LockClock.apk:system/vendor/overlay/Midnight_LockClock.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Midnight_SystemUI.apk:system/vendor/overlay/Midnight_SystemUI.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/signed_chromeNavTest.apk:system/vendor/overlay/signed_chromeNavTest.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Contacts.apk:system/vendor/overlay/TimberWolf_Contacts.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Dialer.apk:system/vendor/overlay/TimberWolf_Dialer.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Phone.apk:system/vendor/overlay/TimberWolf_Phone.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_PlayStore.apk:system/vendor/overlay/TimberWolf_PlayStore.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_SlimLauncher.apk:system/vendor/overlay/TimberWolf_SlimLauncher.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Velvet.apk:system/vendor/overlay/TimberWolf_Velvet.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Whatsapp.apk:system/vendor/overlay/TimberWolf_Whatsapp.apk
+
 # Copy latinime for gesture typing
 PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/lib/libjni_latinimegoogle.so:system/lib/libjni_latinimegoogle.so
