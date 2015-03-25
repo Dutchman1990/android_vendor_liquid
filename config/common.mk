@@ -71,7 +71,6 @@ PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Youtube.apk:system/vendor/overlay/DGMTRLv3_Youtube.apk \
     vendor/liquid/prebuilt/common/etc/overlay/Midnight_LockClock.apk:system/vendor/overlay/Midnight_LockClock.apk \
     vendor/liquid/prebuilt/common/etc/overlay/Midnight_SystemUI.apk:system/vendor/overlay/Midnight_SystemUI.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/signed_chromeNavTest.apk:system/vendor/overlay/signed_chromeNavTest.apk \
     vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Contacts.apk:system/vendor/overlay/TimberWolf_Contacts.apk \
     vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Dialer.apk:system/vendor/overlay/TimberWolf_Dialer.apk \
     vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Phone.apk:system/vendor/overlay/TimberWolf_Phone.apk \
