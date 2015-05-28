@@ -116,6 +116,10 @@ PRODUCT_PACKAGES += \
     org.cyanogenmod.hardware \
     org.cyanogenmod.hardware.xml
 
+# Viper4Android
+PRODUCT_PACKAGES += \
+    Viper4Android
+
 # Extra Optional packages
 PRODUCT_PACKAGES += \
     PerformanceControl \
