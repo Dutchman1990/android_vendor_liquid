@@ -61,16 +61,15 @@ PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_GoogleMusic.apk:system/vendor/overlay/DGMTRLv3_GoogleMusic.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_GoogleSearch.apk:system/vendor/overlay/DGMTRLv3_GoogleSearch.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Gplus.apk:system/vendor/overlay/DGMTRLv3_Gplus.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRlv3_Hangouts.apk:system/vendor/overlay/DGMTRlv3_Hangouts.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Messenger.apk:system/vendor/overlay/DGMTRLv3_Messenger.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_MMS.apk:system/vendor/overlay/DGMTRLv3_MMS.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Settings.apk:system/vendor/overlay/DGMTRLv3_Settings.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Settings.apk:system/vendor/overlay/Settings.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_SMSBackupRestore.apk:system/vendor/overlay/DGMTRLv3_SMSBackupRestore.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_SuperSU.apk:system/vendor/overlay/DGMTRLv3_SuperSU.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_TheScore.apk:system/vendor/overlay/DGMTRLv3_TheScore.apk \
     vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Youtube.apk:system/vendor/overlay/DGMTRLv3_Youtube.apk \
     vendor/liquid/prebuilt/common/etc/overlay/Midnight_LockClock.apk:system/vendor/overlay/Midnight_LockClock.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/Midnight_SystemUI.apk:system/vendor/overlay/Midnight_SystemUI.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/SystemUI.apk:system/vendor/overlay/SystemUI.apk \
     vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Contacts.apk:system/vendor/overlay/TimberWolf_Contacts.apk \
     vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Dialer.apk:system/vendor/overlay/TimberWolf_Dialer.apk \
     vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Phone.apk:system/vendor/overlay/TimberWolf_Phone.apk \
