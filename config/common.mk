@@ -78,7 +78,7 @@ PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/etc/overlay/Settings.apk:system/vendor/overlay/Settings.apk \
     vendor/liquid/prebuilt/common/etc/overlay/SuperSU.apk:system/vendor/overlay/SuperSU.apk \
     vendor/liquid/prebuilt/common/etc/overlay/SystemUI.apk:system/vendor/overlay/SystemUI.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/Telecom.apk.apk:system/vendor/overlay/Telecom.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Telecom.apk:system/vendor/overlay/Telecom.apk \
     vendor/liquid/prebuilt/common/etc/overlay/Velvet.apk:system/vendor/overlay/Velvet.apk \
     vendor/liquid/prebuilt/common/etc/overlay/WhatsApp.apk:system/vendor/overlay/WhatsApp.apk
 
