@@ -51,32 +51,36 @@ PRODUCT_COPY_FILES += \
 
 # Theme
 PRODUCT_COPY_FILES += \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Calculator.apk:system/vendor/overlay/DGMTRLv3_Calculator.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Cellbroadcast.apk:system/vendor/overlay/DGMTRLv3_Cellbroadcast.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Deskclock.apk:system/vendor/overlay/DGMTRLv3_Deskclock.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Documentsui.apk:system/vendor/overlay/DGMTRLv3_Documentsui.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Dropbox.apk:system/vendor/overlay/DGMTRLv3_Dropbox.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Framework.apk:system/vendor/overlay/DGMTRLv3_Framework.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Gmail.apk:system/vendor/overlay/DGMTRLv3_Gmail.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_GoogleMusic.apk:system/vendor/overlay/DGMTRLv3_GoogleMusic.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_GoogleSearch.apk:system/vendor/overlay/DGMTRLv3_GoogleSearch.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Gplus.apk:system/vendor/overlay/DGMTRLv3_Gplus.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Messenger.apk:system/vendor/overlay/DGMTRLv3_Messenger.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_MMS.apk:system/vendor/overlay/DGMTRLv3_MMS.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/AllCastNotifications.apk:system/vendor/overlay/AllCastNotifications.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Calculator.apk:system/vendor/overlay/Calculator.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/CellBroadcast.apk:system/vendor/overlay/CellBroadcast.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Contacts.apk:system/vendor/overlay/Contacts.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DeskClockNotifications.apk:system/vendor/overlay/DeskClockNotifications.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Dialer.apk:system/vendor/overlay/Dialer.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/DropBox.apk:system/vendor/overlay/DropBox.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Eleven.apk:system/vendor/overlay/Eleven.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Framework-res.apk:system/vendor/overlay/Framework-res.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Gmail.apk:system/vendor/overlay/Gmail.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/GoogleCalculator.apk:system/vendor/overlay/GoogleCalculator.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/GoogleContacts.apk:system/vendor/overlay/GoogleContacts.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/GoogleDialer.apk:system/vendor/overlay/GoogleDialer.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/GoogleMMS.apk:system/vendor/overlay/GoogleMMS.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/GoogleNow.apk:system/vendor/overlay/GoogleNow.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/GoogleTranslate.apk:system/vendor/overlay/GoogleTranslate.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Hangouts.apk:system/vendor/overlay/Hangouts.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/InboxNotifications.apk:system/vendor/overlay/InboxNotifications.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Keep.apk:system/vendor/overlay/Keep.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/LayersManager.apk:system/vendor/overlay/LayersManager.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/PackageInstaller.apk:system/vendor/overlay/PackageInstaller.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Phone.apk:system/vendor/overlay/Phone.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/PlayMusic.apk:system/vendor/overlay/PlayMusic.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/PlayStore.apk:system/vendor/overlay/PlayStore.apk \
     vendor/liquid/prebuilt/common/etc/overlay/Settings.apk:system/vendor/overlay/Settings.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_SMSBackupRestore.apk:system/vendor/overlay/DGMTRLv3_SMSBackupRestore.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_SuperSU.apk:system/vendor/overlay/DGMTRLv3_SuperSU.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_TheScore.apk:system/vendor/overlay/DGMTRLv3_TheScore.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/DGMTRLv3_Youtube.apk:system/vendor/overlay/DGMTRLv3_Youtube.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/Midnight_LockClock.apk:system/vendor/overlay/Midnight_LockClock.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/Systemui.apk:system/vendor/overlay/Systemui.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Contacts.apk:system/vendor/overlay/TimberWolf_Contacts.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Dialer.apk:system/vendor/overlay/TimberWolf_Dialer.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Phone.apk:system/vendor/overlay/TimberWolf_Phone.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_PlayStore.apk:system/vendor/overlay/TimberWolf_PlayStore.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_SlimLauncher.apk:system/vendor/overlay/TimberWolf_SlimLauncher.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Velvet.apk:system/vendor/overlay/TimberWolf_Velvet.apk \
-    vendor/liquid/prebuilt/common/etc/overlay/TimberWolf_Whatsapp.apk:system/vendor/overlay/TimberWolf_Whatsapp.apk
+    vendor/liquid/prebuilt/common/etc/overlay/SuperSU.apk:system/vendor/overlay/SuperSU.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/SystemUI.apk:system/vendor/overlay/SystemUI.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Telecom.apk.apk:system/vendor/overlay/Telecom.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/Velvet.apk:system/vendor/overlay/Velvet.apk \
+    vendor/liquid/prebuilt/common/etc/overlay/WhatsApp.apk:system/vendor/overlay/WhatsApp.apk
 
 # Copy latinime for gesture typing
 PRODUCT_COPY_FILES += \
