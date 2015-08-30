@@ -111,9 +111,6 @@ PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/etc/init.d/90userinit:system/etc/init.d/90userinit \
     vendor/liquid/prebuilt/common/bin/sysinit:system/bin/sysinit
 
-# T-Mobile theme engine
-include vendor/liquid/config/themes_common.mk
-
 # SuperSU
 PRODUCT_COPY_FILES += \
     vendor/liquid/prebuilt/common/etc/UPDATE-SuperSU.zip:system/addon.d/UPDATE-SuperSU.zip \
