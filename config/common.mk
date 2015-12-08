@@ -109,7 +109,8 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     CellBroadcastReceiver \
     Development \
-    SpareParts
+    SpareParts \
+    su
 
 # CM Hardware Abstraction Framework
 PRODUCT_PACKAGES += \
